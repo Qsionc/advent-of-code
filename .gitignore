@@ -1,0 +1,8 @@
+/target
+/.idea
+/build**
+**.lock
+**.toml
+**.txt
+Makefile
+**.out
