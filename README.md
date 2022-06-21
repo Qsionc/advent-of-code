@@ -4,7 +4,7 @@ This branch is created to allow for my C++ implementation of AOC 2021 to be coll
 
 Each successive commit will add additional folders in source and include with days.
 
-## How it is going
+## How is it going
 
 ### Day 1
 
@@ -12,3 +12,9 @@ Each successive commit will add additional folders in source and include with da
 
 I feel the strongest in C++. I hope code is enjoyable and clean. 
 I tried to make it as small as possible, maybe it could be smaller, but I like how it looks right now.
+
+### Day 2
+
+[Code can be seen here](https://github.com/Qsionc/advent-of-code/tree/cpp-2021/source/day_2)
+
+It took some time to implement it, mostly because i was stubborn and wanted to use istream_iterator badly to read a line and for some time i was fighting with minor logic issues.
