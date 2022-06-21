@@ -12,3 +12,9 @@ Each successive commit will add additional folders in src/bin folder with days
 
 After some time spent on learning basics of Rust i got a grip of it and now, my new implementation of AOC 2021 started.
 Both parts look decent, but reviews and comments are welcome!
+
+### Day 2
+
+[Code can be seen here](https://github.com/Qsionc/advent-of-code/blob/rust-2021/src/bin/day2)
+
+Now that i get a grasp of Rust, i managed to clean day two without any problems. Looks fun. I hope C++ version can be also smooth.

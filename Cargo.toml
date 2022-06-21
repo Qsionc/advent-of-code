@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 
+# =============== DAY 1 ===============
 [[bin]]
 name="day1_part1"
 path="src/bin/day1/day1_part1.rs"
@@ -14,3 +15,13 @@ path="src/bin/day1/day1_part1.rs"
 [[bin]]
 name="day1_part2"
 path="src/bin/day1/day1_part2.rs"
+
+# =============== DAY 2 ===============
+
+[[bin]]
+name="day2_part1"
+path="src/bin/day2/part1.rs"
+
+[[bin]]
+name="day2_part2"
+path="src/bin/day2/part2.rs"
