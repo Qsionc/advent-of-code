@@ -25,3 +25,13 @@ path="src/bin/day2/part1.rs"
 [[bin]]
 name="day2_part2"
 path="src/bin/day2/part2.rs"
+
+# =============== DAY 2 ===============
+
+[[bin]]
+name="day3_part1"
+path="src/bin/day3/part1.rs"
+
+[[bin]]
+name="day3_part2"
+path="src/bin/day3/part2.rs"

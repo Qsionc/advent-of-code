@@ -18,3 +18,10 @@ Both parts look decent, but reviews and comments are welcome!
 [Code can be seen here](https://github.com/Qsionc/advent-of-code/blob/rust-2021/src/bin/day2)
 
 Now that i get a grasp of Rust, i managed to clean day two without any problems. Looks fun. I hope C++ version can be also smooth.
+
+### Day 3
+
+[Code can be seen here](https://github.com/Qsionc/advent-of-code/blob/rust-2021/src/bin/day3)
+
+Now now, this gave me a little problem, with all those slices and stuff i had to do in order to find good solution.
+But i managed! This time i learned a little bit about vectors of slices and such ;)
